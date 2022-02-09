@@ -11,7 +11,7 @@ classifiers = [
 setup(
     long_description_content_type='text/plain',
     name='tententgclibrary',
-    version='0.0.3',
+    version='0.0.4',
     description='Mathematics calculate library',    
     long_description=open('README.txt').read() + '\n\n' +
     open('CHANGELOG.txt').read(),
