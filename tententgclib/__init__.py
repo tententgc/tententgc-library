@@ -21,7 +21,7 @@ def listfind_even(a):
     return [x for x in a if x % 2 == 0]
 
 def stack(a,b):
-    for i in range(1,a+1): 
+    for i in range(1,a): 
         print(b*i)
         
 def reverse_stack(a,b):
